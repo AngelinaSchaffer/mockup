@@ -1,0 +1,80 @@
+body{
+    margin: 0%;
+}
+
+.nav-new {
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+    height: 194px;
+    width: 1440px;
+    background-color: blue;
+}
+
+.list {
+    display: flex;
+    flex: row;
+    justify-content: space-around;
+    height: 45px;
+    width: 400px;
+}
+
+.btn-nav {
+    width: 99px;
+    height: 40px;
+    text-align: center;
+}
+
+.search {
+    width: 340px;
+    height: 40px;
+    background-color: beige;
+}
+
+.projects {
+    display: flex;
+    flex: row;
+    width: 1440px;
+    height: 820px;
+    margin: 10px 0px;
+    background-color: blue;
+}
+
+.me {
+    margin: 25px;
+    height: 245px;
+    width: 246px;
+    background-color: aquamarine;
+}
+
+.about {
+    width: 343px;
+    height: 343px;
+    border-radius: 100%;
+    background-color: blueviolet;
+    margin: 25px;
+}
+
+.contact {
+    width: 331px;
+    height: 228px;
+    background-color: brown;
+    margin: 25px;
+}
+
+.work {
+    width: 343px;
+    height: 455px;
+    margin: 25px;
+    display: flex;
+    flex: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.box {
+    width: 159px;
+    height: 135px;
+    background-color: aliceblue;
+}
