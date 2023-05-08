@@ -8,7 +8,7 @@ body{
     justify-content: space-between;
     height: 194px;
     width: 1440px;
-    background-color: blue;
+    background-color: teal;
 }
 
 .list {
@@ -23,6 +23,15 @@ body{
     width: 99px;
     height: 40px;
     text-align: center;
+    color: black;
+    background-color: aqua;
+    font-style: italic;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.btn-nav:hover {
+    background-color: blueviolet;
 }
 
 .search {
@@ -37,28 +46,28 @@ body{
     width: 1440px;
     height: 820px;
     margin: 10px 0px;
-    background-color: blue;
+    background-color: teal;
 }
 
 .me {
     margin: 25px;
     height: 245px;
     width: 246px;
-    background-color: aquamarine;
+    background-color: white;
 }
 
 .about {
     width: 343px;
     height: 343px;
     border-radius: 100%;
-    background-color: blueviolet;
+    background-color: white;
     margin: 25px;
 }
 
 .contact {
     width: 331px;
     height: 228px;
-    background-color: brown;
+    background-color: white;
     margin: 25px;
 }
 
